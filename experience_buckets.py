@@ -1,14 +1,14 @@
 def init_experiences():
     EXPERIENCES = [
-        "data engineer",
-        "data scientist",
-        "database administrator",
-        "devops engineer",
-        "frontend developer",
-        "hardware engineer",
-        "network engineer",
-        "software engineer",
-        "ui-ux designer",
+        "Data Engineer",
+        "Data Scientist",
+        "Database Administrator",
+        "Devops Engineer",
+        "Frontend Developer",
+        "Hardware Engineer",
+        "Network Engineer",
+        "Software Engineer",
+        "UI-UX Designer",
     ]
 
     return EXPERIENCES
